@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitHubTest.iml" filepath="$PROJECT_DIR$/.idea/modules/gitHubTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitHubTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gitHubTest_main.iml" group="gitHubTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitHubTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gitHubTest_test.iml" group="gitHubTest" />
+    </modules>
+  </component>
+</project>
