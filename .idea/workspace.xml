@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="47f6c45a-960c-413c-b676-4d566087c115" name="Default" comment="" />
+=======
+    <list default="true" id="47f6c45a-960c-413c-b676-4d566087c115" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+>>>>>>> Stashed changes
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -22,6 +28,7 @@
       <file leaf-file-name="User.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="57">
               <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
@@ -29,6 +36,23 @@
                 <element signature="e#196#197#0" expanded="true" />
                 <element signature="e#233#234#0" expanded="true" />
                 <element signature="e#261#262#0" expanded="true" />
+=======
+            <state relative-caret-position="462">
+              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+              <folding>
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+>>>>>>> Stashed changes
               </folding>
             </state>
           </provider>
@@ -526,7 +550,11 @@
       <option name="presentableId" value="Default" />
       <updated>1520578340601</updated>
       <workItem from="1520578419827" duration="156000" />
+<<<<<<< Updated upstream
       <workItem from="1520578624909" duration="1888000" />
+=======
+      <workItem from="1520578624909" duration="4333000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="My First Commit">
       <created>1520579694103</created>
@@ -535,11 +563,47 @@
       <option name="project" value="LOCAL" />
       <updated>1520579694103</updated>
     </task>
+<<<<<<< Updated upstream
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="2044000" />
+=======
+    <task id="LOCAL-00002" summary="My First Commit">
+      <created>1520582589511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520582589512</updated>
+    </task>
+    <task id="LOCAL-00003" summary="My First Commit">
+      <created>1520583147540</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1520583147540</updated>
+    </task>
+    <task id="LOCAL-00004" summary="加了 一个 getter and setter">
+      <created>1520583365942</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1520583365942</updated>
+    </task>
+    <task id="LOCAL-00005" summary="加了 一个 car">
+      <created>1520583559616</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1520583559616</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4489000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -581,7 +645,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My First Commit" />
+<<<<<<< Updated upstream
     <option name="LAST_COMMIT_MESSAGE" value="My First Commit" />
+=======
+    <MESSAGE value="加了 一个 getter and setter" />
+    <MESSAGE value="加了 一个 car" />
+    <option name="LAST_COMMIT_MESSAGE" value="加了 一个 car" />
+>>>>>>> Stashed changes
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -593,16 +663,32 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+<<<<<<< Updated upstream
             <element signature="e#171#172#0" expanded="true" />
             <element signature="e#196#197#0" expanded="true" />
             <element signature="e#233#234#0" expanded="true" />
             <element signature="e#261#262#0" expanded="true" />
+=======
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="57">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
@@ -610,6 +696,23 @@
             <element signature="e#196#197#0" expanded="true" />
             <element signature="e#233#234#0" expanded="true" />
             <element signature="e#261#262#0" expanded="true" />
+=======
+        <state relative-caret-position="462">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
